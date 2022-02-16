@@ -9,5 +9,7 @@ package it.luchetti.test.github;
  * @author Matteo
  */
 public class Animale {
+    private int x;
+    
     
 }

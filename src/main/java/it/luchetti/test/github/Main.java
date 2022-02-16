@@ -10,8 +10,8 @@ public class Main {
         System.out.println("ciao 2 ");
         System.out.println("ciao 4");
         System.out.println("albero2");
-        System.out.println("pero");
-        System.out.println("3");
+        System.out.println("pero2");
+        System.out.println("32");
     }
     
 }
