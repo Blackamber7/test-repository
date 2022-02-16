@@ -4,13 +4,10 @@
  */
 package it.luchetti.test.github;
 
-
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("ciao 2 ");
-        System.out.println("ciao 4");
-        System.out.println("albero");
-        System.out.println("3");
-    }
+/**
+ *
+ * @author Matteo
+ */
+public class Animale {
     
 }
