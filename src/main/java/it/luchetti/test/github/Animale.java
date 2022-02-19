@@ -10,6 +10,7 @@ package it.luchetti.test.github;
  */
 public class Animale {
     private int x;
+    private int y;
     
     
 }
