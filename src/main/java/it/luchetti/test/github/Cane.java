@@ -47,5 +47,6 @@ public class Cane extends Animale{
     }
     
     
+    private String padrone;
 }
  
