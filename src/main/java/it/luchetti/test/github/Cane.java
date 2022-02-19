@@ -11,4 +11,5 @@ package it.luchetti.test.github;
 public class Cane extends Animale{
     private String nome;
     private int eta;
+    private int razza;
 }
