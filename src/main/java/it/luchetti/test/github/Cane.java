@@ -12,4 +12,5 @@ public class Cane extends Animale{
     private String nome;
     private int eta;
     private String razza;
+    private String padrone;
 }
