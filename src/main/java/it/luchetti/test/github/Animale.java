@@ -13,6 +13,7 @@ public class Animale {
     private int y;
     private int z;
     private int u;
+    private int p;
     
     
 }
