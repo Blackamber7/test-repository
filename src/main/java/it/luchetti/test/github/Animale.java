@@ -15,4 +15,9 @@ public class Animale {
     private int u;
     
     
+    public void sleep(){
+        System.out.println("Zzz");
+    }
+    
+    
 }
