@@ -11,16 +11,17 @@ package it.luchetti.test.github;
 public class Animale {
     private int x;
     private int u;
+    private int u2;
     private  String x1;
 
     public Animale() {
     }
 
-    public Animale(int x, int y, int z, int u) {
+    public Animale(int x, int u, int u2, String x1) {
         this.x = x;
-        this.y = y;
-        this.z = z;
         this.u = u;
+        this.u2 = u2;
+        this.x1 = x1;
     }
 
     public int getX() {
@@ -31,22 +32,6 @@ public class Animale {
         this.x = x;
     }
 
-    public int getY() {
-        return y;
-    }
-
-    public void setY(int y) {
-        this.y = y;
-    }
-
-    public int getZ() {
-        return z;
-    }
-
-    public void setZ(int z) {
-        this.z = z;
-    }
-
     public int getU() {
         return u;
     }
@@ -55,6 +40,23 @@ public class Animale {
         this.u = u;
     }
 
+    public int getU2() {
+        return u2;
+    }
+
+    public void setU2(int u2) {
+        this.u2 = u2;
+    }
+
+    public String getX1() {
+        return x1;
+    }
+
+    public void setX1(String x1) {
+        this.x1 = x1;
+    }
+
+    
    
     
 }
