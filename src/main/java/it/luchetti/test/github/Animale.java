@@ -11,7 +11,7 @@ package it.luchetti.test.github;
 public class Animale {
     private int x;
     private int y;
-    private int z;
+    private int z2;
     private int u;
     private int p;
     
