@@ -13,7 +13,7 @@ public class Animale {
     private int y;
     private int z;
     private int u;
-    private  String x1;
+    private  Strin x1;
 
     public Animale() {
     }
