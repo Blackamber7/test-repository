@@ -9,6 +9,6 @@ package it.luchetti.test.github;
  * @author Matteo
  */
 public class Cane extends Animale{
-    private String nome3;
-    private int eta4;
+    private String nome;
+    private int eta;
 }
