@@ -12,4 +12,10 @@ public class Cane extends Animale{
     private String nome;
     private int eta;
     private String razza;
+    
+    
+    
+    public void eatTime(){
+        System.out.println("mangia alle 16");
+    }
 }
